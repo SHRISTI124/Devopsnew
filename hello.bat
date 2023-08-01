@@ -1,1 +1,2 @@
-hey! ssup!
+echo "hey! ssup!"
+
